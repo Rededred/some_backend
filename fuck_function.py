@@ -1,4 +1,9 @@
 def fuck(you):
-    print('fuck '+ you)
+    print(you + ' will manage to become programmer')
 
-fuck('YOU')
+
+print('Enter you name below:')
+YOU = input()
+
+if __name__ == "__main__":
+    fuck(YOU)
