@@ -13,9 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharmasdasdasd')
 
-def fuck(you):
-    print('fuck'+ you)
-
-fuck('YOU')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
